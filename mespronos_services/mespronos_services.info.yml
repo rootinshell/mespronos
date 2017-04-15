@@ -1,0 +1,8 @@
+name: MesPronos Services
+type: module
+description: Mespronos Services Integration
+core: 8.x
+package: MesPronos
+dependencies :
+  - mespronos
+  - rest
